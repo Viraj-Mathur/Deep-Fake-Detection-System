@@ -20,7 +20,8 @@ This project is focused on developing a deep learning-based deepfake detection s
 - **ResNet50 Model**: A pre-trained ResNet model, fine-tuned to enhance detection capabilities by leveraging its deeper feature extraction.
 
 ## Dataset
-The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com/), containing two classes of images:
+The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com/code/shubhamkumarbhokta/cnn-2/input
+), containing two classes of images:
 - **Real**: Images that are unaltered and represent real content.
 - **Fake**: Deepfake images manipulated using various AI techniques.
 
