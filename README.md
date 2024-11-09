@@ -1,6 +1,6 @@
 # Deep Fake Image Detection System Using CNNs
 
-A robust deepfake detection system designed to distinguish between real and synthetic (deepfake) images using deep learning models. This project leverages a CNN-based architecture and a ResNet model to enhance detection accuracy and evaluate their performance in identifying deepfakes. By using a large, diverse dataset from Kaggle, this system aims to provide a reliable, scalable solution for identifying manipulated media in real-world applications.
+A robust deepfake detection system designed to distinguish between real and synthetic (deepfake) images using deep learning models. This project uses a CNN-based architecture and a ResNet model to enhance detection accuracy and evaluate their performance in identifying deepfakes. By using a large, diverse dataset from Kaggle, this system aims to provide a reliable, scalable solution for identifying manipulated media in real-world applications.
 
 ## Table of Contents
 - [Deep Fake Image Detection System Using CNNs](#deep-fake-image-detection-system-using-cnns)
@@ -35,7 +35,7 @@ The dataset is structured into training, validation, and test sets, ensuring bal
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/deepfake-detection-system.git
+   git clone https://github.com/Viraj-Mathur/Deep-Fake-Detection-System.git
    ```
 2. Install dependencies:
    ```bash
